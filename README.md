@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 </div>
 
 ## Contato
