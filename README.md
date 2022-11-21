@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 </div>
 
+<br><br>
+
+## Análise
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dark"/>
+
 ## Contato
 
 <a href="https://www.linkedin.com/in/sarah-alves-de-s%C3%A1-a48581229/" target="_blank">
