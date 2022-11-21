@@ -15,5 +15,4 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/98770963/203151134-d7a706ac-78e9-44f5-af79-71412c417d26.png"/>
