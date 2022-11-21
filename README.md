@@ -6,7 +6,6 @@
 
 
 ## Tecnologias
-<div style= "display: flex">
 <div style= "display: inline_block"><br>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,5 +14,6 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
- <img align="center" alt="html5" src="https://user-images.githubusercontent.com/98770963/203149944-82163f76-17d2-4098-8e4e-c85c9cd2cc7b.png"/>
- </div>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+
