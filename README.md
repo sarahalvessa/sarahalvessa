@@ -9,6 +9,10 @@
 
 <br><br>
 
+## Tecnologias
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"</img>
+
+
 ## Contato
 
 <a href="https://www.linkedin.com/in/sarah-alves-de-s%C3%A1-a48581229/" target="_blank">
