@@ -12,8 +12,12 @@
 ## Tecnologias
 <div style="display: flex">
   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="html5"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react"/>
 </div>
-
 
 ## Contato
 
