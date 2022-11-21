@@ -24,10 +24,10 @@
 
 ## Análise
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dark" width="300px"/>
 
 ## Contato
 
 <a href="https://www.linkedin.com/in/sarah-alves-de-s%C3%A1-a48581229/" target="_blank">
-  <img align="center" width="300px" src="https://img.shields.io/badge/-sarahsa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center"src="https://img.shields.io/badge/-sarahsa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
