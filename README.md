@@ -24,7 +24,7 @@
 
 ## Análise
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dark" width="300px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dark" width="400px"/>
 
 ## Contato
 
