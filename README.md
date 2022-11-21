@@ -10,7 +10,9 @@
 <br><br>
 
 ## Tecnologias
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"</img>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="html5"/>
+</div>
 
 
 ## Contato
