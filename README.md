@@ -1,18 +1,16 @@
-
-### Olá! Eu sou Sarah Sá 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-alves-de-s%C3%A1-a48581229/)
-
-![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahalvessa&show_icons=true&theme=dracula)
-
-
-## Tecnologias
-<div style= "display: inline_block"><br>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/98770963/203151134-d7a706ac-78e9-44f5-af79-71412c417d26.png"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Sarah Sá</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahalvessa&color=yellow" alt="Profile views" /></p>
+
+- 🔥 Desenvolvedora Front-end Júnior
+
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, Bootstrap, Sass, React.js**
+
+<br><br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/sarah-alves-de-s%C3%A1-a48581229/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
